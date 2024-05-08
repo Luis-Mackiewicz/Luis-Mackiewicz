@@ -7,7 +7,8 @@
 <div align="center">
   
 
-![programming (1)](https://github.com/Luis-Mackiewicz/Luis-Mackiewicz/assets/159212359/98be853d-51cb-40d6-ba9a-1961792a3ea7)
+![hire-full-stack-developers1546507474317-1](https://github.com/Luis-Mackiewicz/Luis-Mackiewicz/assets/159212359/cbcbe4f6-3130-4ac0-9b42-10e74753608e)
+
 
 </div>
 
