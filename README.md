@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luis+Miguel+Mackiewicz;I'm+19+years+old;I+am+from+Campo+Mourão,+PR;I+study+analysis+and+systems+development+at+Integrado;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 #  Sobre mim:
 Estudante de TADS | Primeiro Período<br>A procura de vaga Trainee<br>- estudando PHP e JS<br>- TG 05-019 | 🔰<br>
