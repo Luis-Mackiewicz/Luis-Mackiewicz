@@ -3,8 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luis+Miguel+Mackiewicz;I'm+19+years+old;I+am+from+Campo+Mourão,+PR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
+<div align="center">
 
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luis-Mackiewicz&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
+</div>
+<br>
+<br>
 
 
 <div align="center">
