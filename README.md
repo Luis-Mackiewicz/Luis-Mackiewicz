@@ -5,7 +5,7 @@
 <br>
 
 -------------------------------------------------------------------------------------
-![Luis-Mackiewicz's Stats](https://github-readme-stats.vercel.app/api?username=Luis-Mackiewicz&theme=outrun&show_icons=true&hide_border=true&count_private=true) ![Luis-Mackiewicz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luis-Mackiewicz&theme=outrun&hide_border=true) </div>
+![Luis-Mackiewicz's Stats](https://github-readme-stats.vercel.app/api?username=Luis-Mackiewicz&theme=outrun&show_icons=true&hide_border=true&count_private=true) ![Luis-Mackiewicz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luis-Mackiewicz&theme=outrun&hide_border=true)  ![Luis-Mackiewicz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Mackiewicz&theme=outrun&show_icons=true&hide_border=true&layout=compact)</div>
 -------------------------------------------------------------------------------------
 
 
