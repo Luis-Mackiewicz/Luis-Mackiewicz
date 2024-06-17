@@ -44,8 +44,9 @@
 <br>
 <br
 <p align="center">
-
+<div align="center">
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLuis-Mackiewicz&s=50&c=e2a703&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=" alt="visits">
+</div>
 </p>
 <div align="center">
 
