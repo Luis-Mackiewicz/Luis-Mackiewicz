@@ -1,15 +1,24 @@
-````
-import Desenvolvedor from "Luis Mackiewicz";
+~~~
+class Desenvolvedor {
+profissao: "Dev fullstack";
+tecnologias = ["Javascript", "Typescript, "React", "Next.js", "Node.js","Docker"];
+}
 
 class SobreMim extends Desenvolvedor {
-  nome = "Luis Mackiewicz";
-  area = "Desenvolvimento Web";
-  local = "Campo Mourão - PR";
+nome = "Luis Miguel Oliveira de Almeida Mackiewicz";
+area = "Desenvolvimento Web";
+local = "Campo Mourão - PR";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["JS", "TS"];
-  bibliotecas = ["Prisma","React", "Styled Components", "Mui", "ShadcnUI"];
-  frameworks = ["Express","Nest","Next.js", "Tailwindcss"];
-}
-```
+linguagens = ["Javascript", "TypeScript"];
+bibliotecas = [
+"Prisma",
+"React",
+"Styled Components",
+"MUI",
+"ShadcnUI"
+
+frameworks = ["Expess", "NestJs","Jest", "Next.js, "TailwindCSS", 
+
+];
