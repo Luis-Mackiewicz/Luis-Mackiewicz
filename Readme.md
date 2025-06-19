@@ -19,8 +19,6 @@ bibliotecas = [
 "MUI",
 "ShadcnUI"
 
-frameworks = ["Expess", "NestJs","Jest", "Next.js, "TailwindCSS", 
-
-];
+frameworks = ["Expess","NestJs","Jest","Next.js,"TailwindCSS"];
 }
 ~~~
