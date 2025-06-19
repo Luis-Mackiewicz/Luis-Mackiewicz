@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="150" alt="Tux coding" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="150">
+      <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" alt="Tux coding" />
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?color=84CC16&lines=Console.log(%22Luis+Mackiewicz%22);Fullstack+Developer" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=84CC16&lines=Console.log(%22Luis+Mackiewicz%22);Fullstack+Developer" alt="Typing SVG" />
-</p>
+---
 
 ```ts
 class Desenvolvedor {
