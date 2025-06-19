@@ -1,4 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=84CC16&lines=Console.log(%22Luis+Mackiewicz%22);Fullstack+Developer)
+<p align="center">
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="150" alt="Tux coding" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=84CC16&lines=Console.log(%22Luis+Mackiewicz%22);Fullstack+Developer" alt="Typing SVG" />
+</p>
 
 ```ts
 class Desenvolvedor {
