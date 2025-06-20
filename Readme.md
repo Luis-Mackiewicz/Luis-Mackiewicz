@@ -12,29 +12,42 @@
 ---
 
 ```ts
-class Desenvolvedor {
-  profissao = "Dev fullstack";
-  tecnologias = ["Javascript", "Typescript", "React", "Next.js", "Node.js", "Docker"];
-}
-
-class SobreMim extends Desenvolvedor {
-  nome = "Luis Miguel Oliveira de Almeida Mackiewicz";
-  area = "Desenvolvimento Web";
-  local = "Campo Mourão - PR";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["Javascript", "TypeScript"];
-  bibliotecas = [
-    "Prisma",
+class DevFullstack {
+  readonly profissao = "Desenvolvedor Fullstack";
+  readonly tecnologias = [
+    "JavaScript",
+    "TypeScript",
     "React",
-    "Styled Components",
-    "MUI",
-    "ShadcnUI"
+    "Next.js",
+    "Node.js",
+    "Docker"
   ];
-  frameworks = ["Express", "NestJs", "Jest", "Next.js", "TailwindCSS"];
 }
+
+class SobreMim extends DevFullstack {
+  readonly nome: string;
+  readonly area: string = "Desenvolvimento Web";
+  readonly local: string = "Campo Mourão - PR";
+
+  constructor(nome: string) {
+    super();
+    this.nome = nome;
+  }
+}
+
+class Skills extends DevFullstack {
+  readonly linguagens = ["JavaScript", "TypeScript"];
+  readonly bibliotecas = ["Prisma", "Styled Components", "MUI", "ShadcnUI"];
+  readonly frameworks = ["Express", "NestJS", "Jest", "Next.js"];
+  readonly ferramentas = ["Linux", "Docker", "Git", "Postman", "Figma"];
+}
+
+const dev = new SobreMim("Luis Miguel Oliveira de Almeida Mackiewicz");
+console.log(dev);
+
 ```
+
+
 ---
 ### Tecnologias:
 
