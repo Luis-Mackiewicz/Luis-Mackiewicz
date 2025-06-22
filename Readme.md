@@ -13,38 +13,41 @@
 
 ```ts
 class DevFullstack {
-  readonly profissao = "Desenvolvedor Fullstack";
-  readonly tecnologias = [
+  readonly role = "Fullstack Developer";
+  readonly techStack = [
     "JavaScript",
     "TypeScript",
     "React",
     "Next.js",
     "Node.js",
-    "Docker"
+    "Docker",
+    "Prisma",
+    "Express"
   ];
 }
 
-class SobreMim extends DevFullstack {
-  readonly nome: string;
-  readonly area: string = "Desenvolvimento Web";
-  readonly local: string = "Campo Mourão - PR";
+class AboutMe extends DevFullstack {
+  readonly name: string;
+  readonly expertise = "Web Development";
+  readonly location = "Campo Mourão, PR, Brazil";
+  readonly email = "luismiguelpix@gmail.com"; 
 
-  constructor(nome: string) {
+  constructor(name: string) {
     super();
-    this.nome = nome;
+    this.name = name;
   }
 }
 
 class Skills extends DevFullstack {
-  readonly linguagens = ["JavaScript", "TypeScript"];
-  readonly bibliotecas = ["Prisma", "Styled Components", "MUI", "ShadcnUI"];
-  readonly frameworks = ["Express", "NestJS", "Jest", "Next.js"];
-  readonly ferramentas = ["Linux", "Docker", "Git", "Postman", "Figma"];
+  readonly languages = ["JavaScript", "TypeScript"];
+  readonly libraries = ["Prisma", "Styled Components", "MUI", "ShadcnUI"];
+  readonly frameworks = ["Next.js", "Express", "NestJS", "Jest"];
+  readonly tools = ["Linux", "Docker", "Git", "Postman", "Figma"];
+  readonly focus = "Building scalable and user-centric web solutions";
 }
 
-const dev = new SobreMim("Luis Miguel Oliveira de Almeida Mackiewicz");
-console.log(dev);
-
+const developer = new AboutMe("Luis Miguel Oliveira de Almeida Mackiewicz");
+console.log(developer);
 ```
 
 
